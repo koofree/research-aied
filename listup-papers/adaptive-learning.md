@@ -23,7 +23,7 @@ MOOC에서 사용자들의 행동패턴 데이터를 NMF를 사용해 학생의 
 #### Data-Driven Approach Towards a Personalized Curriculum
 Performance Prediction을 통해 최근에 들은 코스에 대한 성취도를 측정했고, 측정된 성취도를 활용해 코스간 유사도 그래프를 만들었다. 만들어진 유사도 그래프를 이용해 유저에게 맞춤형 커리큘럼을 추천한다.
  - Student Performance Prediction by Discovering Inter-Activity Relations
-  - 이 논문 또한 학습활동간의 유사도를 통해 사용자의 퍼포먼스를 예측했다. 이곳에서 사용한 데이터는 코딩학습컨텐츠였고 이를 통해 학생 퍼포먼스가 낮은 코스를 추천해줄 수 있다. 위 논문은 추천방법이 결과라면 이 논문은 학생 퍼포먼스를 예측하는데 초점이 맞추어져 있다.
+   - 이 논문 또한 학습활동간의 유사도를 통해 사용자의 퍼포먼스를 예측했다. 이곳에서 사용한 데이터는 코딩학습컨텐츠였고 이를 통해 학생 퍼포먼스가 낮은 코스를 추천해줄 수 있다. 위 논문은 추천방법이 결과라면 이 논문은 학생 퍼포먼스를 예측하는데 초점이 맞추어져 있다.
 
 #### Towards a Model-Free Estimate of the Limits to Student Modeling Accuracy
 학습자를 모델링하는데, 이 모델은 사용자가 다음 문제를 맞출지 틀릴지 예측할 수 있는 모델을 만든다. 이러한 예측 정확도를 높일 수 있는 모델을 딥러닝 기반 기술(LSTM)을 활용해 예측하는데, 이 방법의 초점은 틀릴만한 문제를 맞추도록 전환하는데 있다. 이러한 방식에 지식을 활용하면 도메인간 연결성이 너무 떨어지는 문제가 있다. (하나의 MOOC 시스템에는 여러 도메인의 과목들이 있으며, 이는 상호작용을 하는데, 도메인 지식은 이를 해치는 문제중 하나이다.)
@@ -35,6 +35,6 @@ Next-item-correct prediction problem 을 정의하고 이를 해결할 수 있�
 #### Finding trajectory on Multi-choice question answering space
 객관식 문항 공간에서 이상적인 Trajectory를 찾는 문제
  - Filtered Time Series Analyses of Student Problem-Solving Behaviors in Game-based Learning
-  - 게임기반 학습환경(Crystal Island)에서 Trajectory를 찾는 연구
+   - 게임기반 학습환경(Crystal Island)에서 Trajectory를 찾는 연구
 
 
