@@ -12,3 +12,12 @@
 #### AI 기술 발전에 따른 미래 교육의 변화
  - [Link](https://blog.naver.com/riiid_santa/221378142675)
 
+#### 다이나믹 진단고사 (feat.산타토익 진단테스트)
+ - [Link](https://blog.naver.com/riiid_santa/221381028213)
+ 
+#### 교육 분야의 진짜 AI, 가짜 AI
+ - [Link](https://blog.naver.com/riiid_santa/221395218086)
+ 
+#### 인공지능 시대가 요구하는 교육관
+ - [Link](https://blog.naver.com/riiid_santa/221399228285)
+ 
