@@ -21,3 +21,5 @@
 #### 인공지능 시대가 요구하는 교육관
  - [Link](https://blog.naver.com/riiid_santa/221399228285)
  
+#### 학습자 실시간 모델링 기법과 그 파급력 - 학습자 모델
+ - [Link](https://blog.naver.com/riiid_santa/221417807996)
