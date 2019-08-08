@@ -23,3 +23,6 @@
  
 #### 학습자 실시간 모델링 기법과 그 파급력 - 학습자 모델
  - [Link](https://blog.naver.com/riiid_santa/221417807996)
+
+#### 교육 패러다임 변화의 시작, 산타토익
+ - [Link](https://blog.naver.com/riiid_santa/221441897316)
